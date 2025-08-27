@@ -17,7 +17,7 @@ I love turning ideas → designs → pixel-perfect code with smooth animations, 
 
 🎬 Animations: Smooth, modern transitions for immersive UX
 
-⚡ Tools I use daily: Git/GitHub, VS Code, Postman
+⚡ Tools I use daily: Git/GitHub, VS Code
 
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,js,ts,git,figma" /> </p>
