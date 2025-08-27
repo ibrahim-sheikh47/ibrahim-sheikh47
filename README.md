@@ -21,8 +21,7 @@ I love turning ideas → designs → pixel-perfect code with smooth animations, 
 
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,js,ts,git,figma" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-sheikh47&show_icons=true&theme=radical" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-sheikh47&theme=radical" height="150"/> </p>
+
 🌐 Connect With Me
 <p align="left"> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>
 
